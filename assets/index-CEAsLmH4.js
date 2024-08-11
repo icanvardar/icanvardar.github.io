@@ -1,9 +1,10 @@
-import{j as e,L as o,c,u as r}from"./index-CpMb5oQV.js";var d="vocs_Button_button",l="vocs_Button_button_accent";function h({children:t,className:n,href:a,variant:s}){return e.jsx(o,{className:c(n,d,s==="accent"&&l),href:a,variant:"styleless",children:t})}const u={layout:"minimal"};function i(t){const n={a:"a",code:"code",div:"div",h2:"h2",li:"li",p:"p",ul:"ul",...r(),...t.components};return e.jsxs(e.Fragment,{children:[e.jsx("img",{style:{borderRadius:24},width:"156px",src:"https://avatars.githubusercontent.com/u/26247827?s=400&u=b7fdbd5851143112c64655a7c2a2cb54c4af2831&v=4"}),`
+import{j as e,L as s,c,u as r}from"./index-D0m33C6M.js";var d="vocs_Button_button",l="vocs_Button_button_accent";function h({children:t,className:n,href:a,variant:o}){return e.jsx(s,{className:c(n,d,o==="accent"&&l),href:a,variant:"styleless",children:t})}const u={layout:"landing"};function i(t){const n={a:"a",code:"code",div:"div",h2:"h2",li:"li",p:"p",ul:"ul",...r(),...t.components};return e.jsxs(e.Fragment,{children:[e.jsx("img",{style:{borderRadius:24},width:"156px",src:"/can-vardar.jpeg"}),`
 `,e.jsx(n.p,{children:"Hello! I'm Can."}),`
 `,e.jsx(n.p,{children:"I’m a software engineer with a passion for learning and continuous improvement. Over the years, I've had the privilege of working with various companies, where I always strive to deliver my best work."}),`
 `,e.jsx(n.p,{children:"My journey in software development has made me a programming language polyglot, capable of adapting to different technologies and environments. Learning is a personal philosophy of mine, and I’m committed to growing in my craft every day."}),`
 `,e.jsxs(n.p,{children:["If you’d like to connect, you can find me on ",e.jsx(n.a,{href:"https://x.com/icanvardar",children:e.jsx(n.code,{children:"X"})}),", ",e.jsx(n.a,{href:"https://linkedin.com/in/icanvardar",children:e.jsx(n.code,{children:"LinkedIn"})}),"."]}),`
 `,e.jsxs(n.p,{children:["Feel free to reach out to me via email at ",e.jsx(n.a,{href:"mailto:me@icanvardar.com",children:e.jsx(n.code,{children:"me@icanvardar.com"})}),"."]}),`
+`,e.jsx(h,{href:"https://raw.githubusercontent.com/icanvardar/icanvardar/ee0e8aba17a4c97c83782692dc8c7e42f271746d/resume.pdf",target:"_blank",children:"View Resume"}),`
 `,e.jsxs(n.h2,{id:"projects",children:["Projects",e.jsx(n.a,{"aria-hidden":"true",tabIndex:"-1",href:"#projects",children:e.jsx(n.div,{"data-autolink-icon":!0})})]}),`
 `,e.jsx(n.p,{children:"I enjoy creating libraries/tools, and here are some of my recent side projects:"}),`
 `,e.jsxs(n.ul,{children:[`
@@ -16,6 +17,4 @@ import{j as e,L as o,c,u as r}from"./index-CpMb5oQV.js";var d="vocs_Button_butto
 `,e.jsxs(n.ul,{children:[`
 `,e.jsxs(n.li,{children:[e.jsx(n.a,{href:"https://github.com/Metatime-Technology-Inc/genesis-contracts",children:e.jsx(n.code,{children:"genesis-contracts"})}),": Smart contracts about block validation, transaction validation, miner structures, and reward distribution."]}),`
 `,e.jsxs(n.li,{children:[e.jsx(n.a,{href:"https://github.com/Metatime-Technology-Inc/pool-contracts",children:e.jsx(n.code,{children:"pool-contracts"})}),": Smart contacts designed to facilitate the distribution of tokens to participants."]}),`
-`]}),`
-`,e.jsx(n.h2,{id:""}),`
-`,e.jsx(h,{children:"View Resume"})]})}function j(t={}){const{wrapper:n}={...r(),...t.components};return n?e.jsx(n,{...t,children:e.jsx(i,{...t})}):i(t)}export{j as default,u as frontmatter};
+`]})]})}function p(t={}){const{wrapper:n}={...r(),...t.components};return n?e.jsx(n,{...t,children:e.jsx(i,{...t})}):i(t)}export{p as default,u as frontmatter};
